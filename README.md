@@ -1,2 +1,2 @@
 # repository-name
-简短说明
+学习创建仓库的实例
